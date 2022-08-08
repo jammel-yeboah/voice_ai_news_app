@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/voice_ai_news_app/static/css/main.8fd67772.chunk.css",
+    "main.js": "/voice_ai_news_app/static/js/main.349cd355.chunk.js",
+    "main.js.map": "/voice_ai_news_app/static/js/main.349cd355.chunk.js.map",
+    "runtime-main.js": "/voice_ai_news_app/static/js/runtime-main.5f22bc76.js",
+    "runtime-main.js.map": "/voice_ai_news_app/static/js/runtime-main.5f22bc76.js.map",
+    "static/css/2.d9ad5f5c.chunk.css": "/voice_ai_news_app/static/css/2.d9ad5f5c.chunk.css",
+    "static/js/2.a1d7d8b7.chunk.js": "/voice_ai_news_app/static/js/2.a1d7d8b7.chunk.js",
+    "static/js/2.a1d7d8b7.chunk.js.map": "/voice_ai_news_app/static/js/2.a1d7d8b7.chunk.js.map",
+    "index.html": "/voice_ai_news_app/index.html",
+    "precache-manifest.870cf95c303ae03176523b7f44e58b9e.js": "/voice_ai_news_app/precache-manifest.870cf95c303ae03176523b7f44e58b9e.js",
+    "service-worker.js": "/voice_ai_news_app/service-worker.js",
+    "static/css/2.d9ad5f5c.chunk.css.map": "/voice_ai_news_app/static/css/2.d9ad5f5c.chunk.css.map",
+    "static/css/main.8fd67772.chunk.css.map": "/voice_ai_news_app/static/css/main.8fd67772.chunk.css.map",
+    "static/js/2.a1d7d8b7.chunk.js.LICENSE.txt": "/voice_ai_news_app/static/js/2.a1d7d8b7.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/voice_ai_news_app/static/media/logo.289eea38.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5f22bc76.js",
+    "static/css/2.d9ad5f5c.chunk.css",
+    "static/js/2.a1d7d8b7.chunk.js",
+    "static/css/main.8fd67772.chunk.css",
+    "static/js/main.349cd355.chunk.js"
+  ]
+}
