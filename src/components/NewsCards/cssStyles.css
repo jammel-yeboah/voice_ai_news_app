@@ -1,0 +1,46 @@
+body{
+    overflow: auto;
+    margin: 0;
+    padding: 0;
+    width: 100%;
+}
+.containerCard{
+    padding: 0 5%;
+    width: 100%;
+    margin: 0;
+    display: flex;
+}
+
+.card_main {
+    position: relative;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+    padding: 15px;
+    height: 250px;
+}
+
+.card__title {
+    padding: 0 0 10px 0;
+    font-size: 22px;
+    text-transform: uppercase;
+}
+
+.card__subtitle {
+    padding: 0 0 10px 0;
+    font-size: 16px;
+    color: #cc4033;
+}
+
+.card__description {
+    position: absolute;
+    bottom: 14px;
+    padding: 5px;
+    color: #666C74;
+    font-size: 15px;
+}
+
+.card_main:hover{
+    border: 3px solid #cc4033;
+}
+.navItem {
+    color: white;
+}
