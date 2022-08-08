@@ -13,6 +13,6 @@
       <rect width="50" height="1500" stroke="none"/>
       <rect x="0.5" y="0.5" width="99" height="1499" fill="none"/>
     </g>
-    <text id="OnlyNews" transform="translate(3462 2169)" fill="#cc4033" font-size="900" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Talky News</tspan></text>
+    <text id="talkynews" transform="translate(3462 2169)" fill="#cc4033" font-size="900" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Talky News</tspan></text>
   </g>
 </svg>
