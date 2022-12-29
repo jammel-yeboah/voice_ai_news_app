@@ -6,6 +6,7 @@ Talky News - Voice AI Controlled React News Application
 <a href="https://ibb.co/MV1ZJbG"><img src="https://i.ibb.co/9T4cdJV/ai-news-screenshot.png" alt="Talky News - Voice AI Controlled News App" border="0"></a>
 
 ## Introduction
+LIVE DEMO: <a href="https://jammel-yeboah.github.io/voice_ai_news_app/">
 A Conversational Voice Controlled React News Application based on Alan AI. This application is capable of providing the latest news across a wide variety of categories from several sources as well as accomplishing simple tasks such as providing weather info and performing calculations. And of course, Talky News is open to having a little casual chat!
 
 ## Setup:
